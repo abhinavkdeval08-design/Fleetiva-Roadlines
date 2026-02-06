@@ -119,4 +119,4 @@ Contributions are welcome! Please read our CONTRIBUTING.md for details on our co
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
